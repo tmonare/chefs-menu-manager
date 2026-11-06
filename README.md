@@ -1,5 +1,5 @@
-# Chef's Menu Manager (IMAD5112 POE)
-
+# Chef's Menu Manager (MAST POE)
+Demo video: https://youtu.be/fAyJgisKFEk
 React Native (Expo Router + TypeScript) app that lets a chef manage a menu.
 
 npm install
